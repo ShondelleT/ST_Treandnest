@@ -1,0 +1,12 @@
+{
+  "name": "st_trendnest",
+  "version": "1.0.0",
+  "description": "A project for ST Trendnest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ShondelleT",
+  "license": "MIT",
+  "dependencies": {}
+}
